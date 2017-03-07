@@ -1,0 +1,95 @@
+#lb,#eb{
+	background-color: #262827;
+	width: 270px;
+	margin: 0px 0px 2.5px 2.5px;
+	color: white;
+}
+#eb{	
+	width: 293px;
+}
+
+#logo.brand-logo{
+	margin-left: 20px;
+}
+#lgoutbtn,
+#profilebtn,
+#mainbtn{
+	background-color: #393939;
+	height: 60px;
+	width: 163px;
+	margin:0px 0px 0px 0px;
+}
+#lgoutbtn:hover,
+#profilebtn:hover,
+#mainbtn:hover{
+	z-index: 10;
+	box-shadow: 0 0 100px rgba(255,255,255,0.5);
+}
+.input-group{
+	color: white;
+}
+.container{
+	position: absolute;
+	left: 360px;
+	top: 110px;
+	color: white;
+	width: 600px;
+}
+input{
+
+}
+.nav-wrapper{
+	background-color: #464646;
+}
+#lgnbtn{
+	background-color: #262827;
+	width: 270px;
+	margin: 2.5px 0px 2.5px 2.5px;
+	color: white;
+}
+#regbtn, #profbtn{
+	width: 270px;
+	background-color: #262827;
+	margin: 2.5px;
+	color: white
+}
+#profbtn{
+	width: 293px;
+}
+.enter{
+	padding: 1.5px 1px 1.5px 1.5px;
+	position: absolute;
+	left: 560px;
+	top: 160px;
+	box-shadow: 0 0 100px rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.profile{
+	display: none;
+	padding: 1.5px 1px 1.5px 1.5px;
+	position: absolute;
+	left: 530px;
+	top: 140px;
+	box-shadow: 0 0 100px rgba(255,255,255,0.5);
+	border-radius: 10px;
+	width: 300px;
+}
+#lst,#lgnbtn,#regbtn,#cb,#profbtn
+{
+	color: white;
+	border: 0;
+}
+#lst
+{
+	margin:0;
+	box-shadow: 0;
+}
+input#email.validate,
+input#login.validate,
+input#password.valivate{
+	margin:0;
+}
+.btn:hover, .btn:focus{
+	color: white;
+}
+
